@@ -1,1 +1,1 @@
-C-Hello, World
+this is a command and code for c programming
