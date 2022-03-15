@@ -1,11 +1,19 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - Entry point
+ *
  * Return: Always 0 (Success)
  */
-int write(int filedes, const char *buf, unsigned int nbyte);
 int main(void)
 {
-write(1, "_putchar\n", 9);
-return (0);
+        char *sh = "_putchar";
+
+        while (*sh)
+        {
+                _putchar(*sh);
+                sh++;
+        }
+        _putchar('\n');
+
+        return (0);
 }
