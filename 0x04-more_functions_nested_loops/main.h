@@ -3,11 +3,7 @@
 
 /*
  * File: MAIN.h
-<<<<<<< HEAD
- * Auth: ABTSEGA
-=======
- * Auth: Brennan D Baraban
->>>>>>> de01dc645c7f19afa21d0f923f14e6c44ee1f23c
+ * Auth: Fadil
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x03-more_functions_nested_loops directory.
  */
