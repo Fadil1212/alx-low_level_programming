@@ -1,6 +1,6 @@
 /*
  * File: 101-print_number.c
- * 
+ * Auth: Abenezer Golda
  */
 
 #include "main.h"

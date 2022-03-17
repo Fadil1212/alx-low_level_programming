@@ -1,6 +1,6 @@
 /*
  * File: 1-isdigit.c
- * 
+ * Auth: Abenezer Golda
  */
 
 #include "main.h"

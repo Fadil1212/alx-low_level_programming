@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-*
-=======
 /*
->>>>>>> de01dc645c7f19afa21d0f923f14e6c44ee1f23c
  * File: 8-print_square.c
- * 
+ * Auth: Abenezer Golda
  */
 
 #include "main.h"

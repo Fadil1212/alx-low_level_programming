@@ -1,6 +1,6 @@
 /*
  * File: 5-more_numbers.c
- * Auth: Brennan D Baraban
+ * Auth: Abenezer Golda
  */
 
 #include "main.h"

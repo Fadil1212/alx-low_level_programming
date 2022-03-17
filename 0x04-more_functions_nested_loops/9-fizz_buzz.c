@@ -1,6 +1,6 @@
 /*
  * File: 9-fizz_buzz.c
- * 
+ * Auth: Abenezer Golda
  */
 
 #include <stdio.h>

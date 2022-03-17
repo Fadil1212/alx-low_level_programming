@@ -1,6 +1,6 @@
 /*
  * File: 10-print_triangle.c
- * 
+ * Auth: Abenezer Golda
  */
 
 #include "main.h"
@@ -32,3 +32,4 @@ void print_triangle(int size)
 
 	_putchar('\n');
 }
+
