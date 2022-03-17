@@ -1,6 +1,10 @@
 /*
  * File: 3-print_numbers.c
+<<<<<<< HEAD
  * 
+=======
+ * Auth: Fadil 
+>>>>>>> de01dc645c7f19afa21d0f923f14e6c44ee1f23c
  */
 
 #include "main.h"
