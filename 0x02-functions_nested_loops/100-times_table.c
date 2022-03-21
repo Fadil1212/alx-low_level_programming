@@ -1,6 +1,6 @@
 /*
  * File: 100-times_table.c
- * Auth: Brennan D Baraban
+ * Auth: Fadil Mohammed
  */
 
 #include "main.h"
