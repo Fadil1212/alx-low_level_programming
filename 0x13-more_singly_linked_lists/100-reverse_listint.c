@@ -1,8 +1,3 @@
-*
- * File: 100-reverse_listint.c
- * Auth: Fadil mohammed
- */
-
 #include "lists.h"
 
 /**
